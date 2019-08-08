@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\SpaceProject\bin\Debug\netcoreapp2.2\SpaceProject.deps.json
+C:\Users\pc\Desktop\SpaceProject\bin\Debug\netcoreapp2.2\SpaceProject.runtimeconfig.json
+C:\Users\pc\Desktop\SpaceProject\bin\Debug\netcoreapp2.2\SpaceProject.runtimeconfig.dev.json
+C:\Users\pc\Desktop\SpaceProject\bin\Debug\netcoreapp2.2\SpaceProject.dll
+C:\Users\pc\Desktop\SpaceProject\bin\Debug\netcoreapp2.2\SpaceProject.pdb
+C:\Users\pc\Desktop\SpaceProject\obj\Debug\netcoreapp2.2\SpaceProject.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SpaceProject\obj\Debug\netcoreapp2.2\SpaceProject.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\SpaceProject\obj\Debug\netcoreapp2.2\SpaceProject.AssemblyInfo.cs
+C:\Users\pc\Desktop\SpaceProject\obj\Debug\netcoreapp2.2\SpaceProject.dll
+C:\Users\pc\Desktop\SpaceProject\obj\Debug\netcoreapp2.2\SpaceProject.pdb
